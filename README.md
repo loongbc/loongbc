@@ -30,7 +30,7 @@ I'm a **PhD candidate in Computer Science** at Tongji University. My research ce
 
 ## ⚡ Fun Facts
 - I love coding challenges and competitions.
-- Enjoy reading and writing literature in Chinese.
+- Enjoy reading and writing literature in English.
 - Passionate about promoting AI in road network.
 
 Feel free to check out my repositories and let's collaborate on exciting projects!
