@@ -21,11 +21,11 @@ I'm a **PhD candidate in Computer Science** at Tongji University. My research ce
 - Completion of PhD program.
 
 ## 📫 How to Reach Me
-- **Email**: [your.email@domain.com](mailto:your.email@domain.com)
-- **Website**: [yourwebsite.com](https://yourwebsite.com)
+- **Email**: [loongbc@tongji.edu.cn](loongbc@tongji.edu.cn)
+- **Website**: [coming soon]()
 
 ## 🌐 Follow Me
-- **Twitter**: [@coming soon](https://twitter.com/coming soon)
+- **Twitter**: [coming soon]()
 - **GitHub**: [@loongbc](https://github.com/loongbc)
 
 ## ⚡ Fun Facts
