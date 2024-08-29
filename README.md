@@ -21,7 +21,7 @@ I'm a **PhD candidate in Computer Science** at Tongji University. My research ce
 - Completion of PhD program.
 
 ## 📫 How to Reach Me
-- **Email**: [loongbc@tongji.edu.cn](loongbc@tongji.edu.cn)
+- **Email**: [loongbc@tongji.edu.cn](mailto:loongbc@tongji.edu.cn)
 - **Website**: [coming soon]()
 
 ## 🌐 Follow Me
