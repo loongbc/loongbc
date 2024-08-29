@@ -26,7 +26,7 @@ I am a **PhD candidate in Computer Science** at Tongji University, specializing 
 
 ## 📫 How to Reach Me
 - **Email**: [loongbc@tongji.edu.cn](mailto:loongbc@tongji.edu.cn)
-- **Website**: Coming soon!
+- **Website**: [@https://loongbc.github.io/homepage.github.io/](https://loongbc.github.io/homepage.github.io/)
 
 ## 🌐 Follow Me
 - **Twitter**: [@Baichao_Long](https://x.com/Baichao_Long)
