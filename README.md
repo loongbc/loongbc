@@ -29,7 +29,7 @@ I am a **PhD candidate in Computer Science** at Tongji University, specializing 
 - **Website**: Coming soon!
 
 ## 🌐 Follow Me
-- **Twitter**: Coming soon!
+- **Twitter**: [@Baichao_Long](https://x.com/Baichao_Long)
 - **GitHub**: [@loongbc](https://github.com/loongbc)
 
 ## ⚡ Fun Facts
